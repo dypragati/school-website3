@@ -1,0 +1,21 @@
+.south{
+    background-color: greenyellow;
+    border: solid black;
+    text-align: center;
+}
+
+.north{
+    background-color: hotpink;
+    border: solid black;
+    text-align: center;
+}
+
+.west{
+    background-color: peru;
+    border: solid black;
+    text-align: center;
+}
+
+h3{
+    color:rebeccapurple;
+}

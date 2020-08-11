@@ -1,0 +1,27 @@
+.east{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: greenyellow;
+   border: solid black;
+   text-align: center;
+}
+
+.right{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: hotpink;
+    border: solid black;
+    text-align: center;
+}
+
+.left{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: peru;
+   border: solid black;
+   text-align: center;
+}
+
+h3{
+   color: #7F54AB;
+}

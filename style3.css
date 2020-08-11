@@ -1,0 +1,17 @@
+.home{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: #C2853F;
+   border: solid black;
+   text-align: center;
+}
+.font{
+   font-size: 25px;
+   border: solid black;
+   margin: 10 px;
+}
+.size{
+   border: solid black;
+   margin-top: 50px ;
+   padding-right: 50px;
+}

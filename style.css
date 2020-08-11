@@ -1,0 +1,60 @@
+#para{
+    color : crimson;
+}
+
+.header{
+    background-color:  blueviolet;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.item{
+    background-color: springgreen;
+    border : solid black;
+ 
+}
+
+.grid{
+    background-color: lightcoral;
+    border : solid black;
+}
+
+.lime{
+    background-color: lightsalmon;
+    border : solid black;
+}
+
+.kit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: violet;
+    border: solid black;
+}
+
+h4{
+    color: white;
+    background-color: black;
+}
+
+h2{
+    color: cadetblue;
+    text-align: justify;
+}
+
+.hit{
+    background-color: gray;
+    border:solid black;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.meet{
+    color: brown;
+}
+body{
+    background-color: #00FF72;
+}
